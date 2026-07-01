@@ -26,6 +26,8 @@ My first cryptography project built with Python.
 ## How to Run
 
 ```bash
-pip install pycryptodome #in pworsell
+pip install pycryptodome 
 python main.py
 ```
+
+Run the commands in PowerShell or Command Prompt.

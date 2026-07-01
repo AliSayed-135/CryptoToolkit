@@ -91,7 +91,7 @@ while True:
         if aes_encrypted_data is not None:
             aes_decrypt(aes_encrypted_data)
         else:
-            print("No encrypted data found.")git add .
+            print("No encrypted data found.")
 
     elif choice == "3":
        public_key, private_key = generate_rsa_keys()
